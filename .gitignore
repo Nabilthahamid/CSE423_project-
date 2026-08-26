@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.docx_render/
+.docx_a11y.json
+build_documentation.py
